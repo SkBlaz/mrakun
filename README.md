@@ -14,7 +14,7 @@ Key ideas of RaKUn:
 This repo now also includes extensive evaluation functionality, which can be of use to the community.
 
 ## Live demo
-https://embeddia-demo.texta.ee/article-analyzer
+https://summarizer.ijs.si/
 
 ## An update
 Since RaKUn's release, we have conducted more extensive empirical evaluation against even stronger baselines. The most recent results can be found here:
